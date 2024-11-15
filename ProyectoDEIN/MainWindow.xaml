@@ -13,10 +13,36 @@
     <Grid>
         <Border Width="300" Height="350" Background="#6f6f6f"
             HorizontalAlignment="Center" VerticalAlignment="Center"
-            CornerRadius="20" Opacity="0.8">
-            <Grid>
-
-            </Grid>
+            CornerRadius="30" Opacity="0.8">
         </Border>
+        <Grid Width="250" Height="325" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock
+                Text="Iniciar Sesión"
+                Foreground="White"
+                FontSize="35"
+                FontWeight="Medium"
+                FontFamily="Montserrat"
+                Grid.Row="0"
+                Grid.Column="1"
+                Margin="15,20,12.5,0"
+                TextAlignment="Center"/>
+            <TextBlock
+                Text="Correo electronico"
+                Foreground="White"
+                FontSize="15"
+                FontWeight="Medium"
+                FontFamily="Montserrat"
+                Grid.Row="1"
+                Grid.Column="1"
+                Margin="10,0,0,0"/>
+        </Grid>
     </Grid>
 </Window>
