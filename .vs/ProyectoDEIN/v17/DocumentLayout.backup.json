@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\Clase\\DEIN\\Proyecto\\ProyectoDEIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656ADDC5-A917-44A7-A75E-90211AA80115}|ProyectoDEIN\\ProyectoDEIN.csproj|c:\\users\\diego\\desktop\\clase\\dein\\proyecto\\proyectodein\\proyectodein\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{656ADDC5-A917-44A7-A75E-90211AA80115}|ProyectoDEIN\\ProyectoDEIN.csproj|solutionrelative:proyectodein\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Clase\\DEIN\\Proyecto\\ProyectoDEIN\\ProyectoDEIN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProyectoDEIN\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Clase\\DEIN\\Proyecto\\ProyectoDEIN\\ProyectoDEIN\\MainWindow.xaml",
+              "RelativeToolTip": "ProyectoDEIN\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T09:49:31.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

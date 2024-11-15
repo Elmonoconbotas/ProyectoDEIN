@@ -6,7 +6,17 @@
         xmlns:local="clr-namespace:ProyectoDEIN"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="Images\Fondo.jpg" Stretch="Fill"/>
+    </Window.Background>
+
     <Grid>
-        
+        <Border Width="300" Height="350" Background="#6f6f6f"
+            HorizontalAlignment="Center" VerticalAlignment="Center"
+            CornerRadius="20" Opacity="0.8">
+            <Grid>
+
+            </Grid>
+        </Border>
     </Grid>
 </Window>
