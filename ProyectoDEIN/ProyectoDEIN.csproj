@@ -94,7 +94,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\xbutton_83749.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Fondo.jpg" />
   </ItemGroup>
